@@ -175,6 +175,7 @@ print s.length()
 ## 1.17 获得帮助
 ```python
 
+print issubclass.__doc__
 
 ```
 
