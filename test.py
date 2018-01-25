@@ -13,7 +13,7 @@ def resize(ev=None):
     
 
 top=Tk()
-label=Label(top,text="hello world",font='Helvetica -12 bold')
+label=Label(top,text="hello world hahah",font='Helvetica -12 bold')
 label.pack(fill=Y,expand=1)
 scale=Scale(top,from_=10,to=40,orient=HORIZONTAL,command=resize)
 scale.set(12)
